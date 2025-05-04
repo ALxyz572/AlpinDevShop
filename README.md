@@ -1,4 +1,4 @@
-<!-- Typing effect -->
+**
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+Repository+Alpin+Developer;&center=true&size=22&duration=4000" alt="Typing Effect" />
 </p>
