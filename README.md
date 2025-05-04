@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100" alt="Gift Box" />
 </p>
 
-<h2 align="center">Halo Semuanya! Selamat datang di markas Alpin Developer!</h2>
+<h2 align="center">Halo Semuanya! Gue Alpin Developer!</h2>
 
 ---
 
